@@ -1,4 +1,5 @@
 Python code for processing of natural sentences, including lemmatization, part of speech tagging, lexical features, averaging of lexical feature values, and various word- and sentence based analyses (with barplots for visualization).
+Code somewhat outdated, new framework coming soon (2021).
 
 ### The following databases are used for lexical feature analysis:
 
